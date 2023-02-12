@@ -6,8 +6,6 @@ Whilst technically proficient, I focus heavily on the human side of the practice
 
 I believe that fast feedback, and frequent dialogue with stakeholders using shared terminology around a shared vision, can overcome many of the hurdles commonly faced by software projects.
 
-I can help you to establish good habits at the start of a project, to ensure a build and deployment process that is resilient to change. During projects, I encouraging learning and providing accurate feedback/reality checks. If I've done my job right, the end of any project should be stress-free.
-
 This GitHub profile thing is new, but I do have a portfolio site at [https://ovaisoozeer.github.io/](https://ovaisoozeer.github.io/)
 
 <!--
