@@ -6,7 +6,7 @@ Whilst technically proficient, I focus heavily on the human side of the practice
 
 I believe that fast feedback, and frequent dialogue with stakeholders using shared terminology around a shared vision, can overcome many of the hurdles commonly faced by software projects.
 
-This GitHub profile thing is new, but I do have a portfolio site at [https://ovaisoozeer.github.io/](https://ovaisoozeer.github.io/)
+This GitHub profile thing is new, but I do have a portfolio site at [https://www.ovais.dev/](https://www.ovais.dev/)
 
 <!--
 **ovaisoozeer/ovaisoozeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
